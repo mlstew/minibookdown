@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Demo Mini Bookdown"
+author: "M. Stewart"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
@@ -8,4 +8,4 @@ classoption: openany
 
 # Create your open textbook
 
-Hello, world!!!
+This is a placeholder sentence for the textbook I'm creating as a sample.
